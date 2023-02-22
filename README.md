@@ -5,7 +5,7 @@ To check upload and download speeds using Python, you can use the `speedtest-cli
 
 ## Create Virtual Environment
 ```
-$ python -m vevn myenv
+username:~/internet-speed-$ python -m vevn myenv
 ```
 ### Activate and Deactivate
 - Activate
