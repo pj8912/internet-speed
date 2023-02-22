@@ -5,11 +5,11 @@ To check upload and download speeds using Python, you can use the `speedtest-cli
 
 ## Installation
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Run
 ```
-app.py
+$ python app.py
 ```
 
